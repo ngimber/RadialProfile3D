@@ -21,7 +21,7 @@ getPixelSize(unit,xpixelsize,ypixelsize,zpixelsize);
 
 
 //dialogue
-Dialog.create("RadialProfile3D:		Enter Values");
+Dialog.create("RadialProfile3D");
   	Dialog.addString("unit:", unit);
   	Dialog.addNumber("channels:", channels);
   	Dialog.addNumber("length (units):", length);
